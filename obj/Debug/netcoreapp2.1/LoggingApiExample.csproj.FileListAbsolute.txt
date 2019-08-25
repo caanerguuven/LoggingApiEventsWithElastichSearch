@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\bin\Debug\netcoreapp2.1\LoggingApiExample.deps.json
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\bin\Debug\netcoreapp2.1\LoggingApiExample.runtimeconfig.json
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\bin\Debug\netcoreapp2.1\LoggingApiExample.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\bin\Debug\netcoreapp2.1\LoggingApiExample.dll
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.RazorAssemblyInfo.cache
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.RazorAssemblyInfo.cs
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\bin\Debug\netcoreapp2.1\LoggingApiExample.pdb
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.dll
+C:\Users\Asus\source\repos\LoggingApiExample\LoggingApiExample\obj\Debug\netcoreapp2.1\LoggingApiExample.pdb
